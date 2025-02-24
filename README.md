@@ -42,7 +42,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
     <td>
      <ul>
         <li>SQL</li>
-        <li>Visual Basic</li>
         <li>Python</li>
         <li>R</li>
         <li>Excel</li>
@@ -50,7 +49,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
        <li>PowerBI</li>
-        <li>Trello</li>
+       <li>Prompt Engineering</li>
       </ul>
     </td>
     <td>
