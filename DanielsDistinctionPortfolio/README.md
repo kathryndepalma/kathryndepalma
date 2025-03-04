@@ -3,13 +3,13 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152112781-2de05074-70b1-436b-9bfb-860890cc1de1.svg" height="35"/>](../README.md/#top)
 <hr>
 
-# Daniels Distinction Portfolio
-<i>Hannah McDonald – April 2022 – Business Analytics</i>
+# Kathryn DePalma Portfolio
+<i>Kathryn DePalma – June 2025 – Business Information and Analytics, Finance</i>
 <br><br>
-Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate experiences and work at the University of Denver!
+Welcome to my portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
 [<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#CommunucationInterpersonal)
-[<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityLeadership)
+[<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityInvolvement)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/162367305-5589f7ee-e667-468e-9548-4ee401f7f683.svg" height="35"/>](#Ethics)
