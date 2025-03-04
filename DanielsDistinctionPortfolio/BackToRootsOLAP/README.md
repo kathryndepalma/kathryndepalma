@@ -3,8 +3,8 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152112781-2de05074-70b1-436b-9bfb-860890cc1de1.svg" height="35"/>](../#OLAP)
 <hr>
 
-# Silhouette Collective Fashion Concierge Business
-[<img src="https://user-images.githubusercontent.com/91146906/152239160-8f8c18a2-e724-4be7-863d-bc94151212ce.svg" height="35"/>](#ExecutiveSummary)
+# Silhouette Collective: A Fashion Concierge Business
+[<img src="https://user-images.githubusercontent.com/91146906/152239160-8f8c18a2-e724-4be7-863d-bc94151212ce.svg" height="35"/>](#Introduction)
 [<img src="https://user-images.githubusercontent.com/91146906/152279618-21ae078d-3d0b-45ed-95f1-306e5030f301.svg" height="35"/>](#BusinessRequirements)
 [<img src="https://user-images.githubusercontent.com/91146906/152279677-02eb9847-1863-4641-b59c-58a0e6cd2f24.svg" height="35"/>](#DataMartDesign)
 [<img src="https://user-images.githubusercontent.com/91146906/152239510-6c631219-71bc-4281-9c8b-b9b1e805b3d8.svg" height="35"/>](#BuildScript)
@@ -26,14 +26,17 @@ Silhouette Collective is a fashion concierge business that provides a highly per
 <hr>
 
 ## Business Requirements
-<b>Chief Operating Officer (COO):</b> <i>What is the quantity of sales monthly, seasonally, and yearly summarized by product, product type, and diet, in addition to location and order fulfillment?</i>
-<blockquote>This analysis will allow the COO to understand demand for products and order fulfillment at each location, informing decisions regarding what products should be stocked and which order fulfillment methods should be supported for those products.</blockquote>
+<b>Chief Operating Officer (COO):</b> <i>What item brought in the most profit?</i>
+<blockquote>This analysis will allow the COO to understand demand for products, as well as which products are actually being purchased most frequently. This informs decisions regarding what products should be in stock and their quantity.</blockquote>
 
-<b>Hiring Manager:</b> <i>What are the sales monthly, quarterly, and yearly summarized by location, position name, and employee, with an indicator for number of days worked by the employee?</i>
-<blockquote>This analysis will inform the hiring manager of the sales brought in by each employee, including location, position, and days worked information. This provides information regarding employee performance in terms of sales, informing decisions on allocation of support resources (including training), promotion, wage, and firing.</blockquote>
+<b>Chief Marketing Officer (CMO):</b> <i>Which shopper generated the highest revenue?</i>
+<blockquote>This analysis will inform the CMO of which customers are purchasing from them most frequently. This provides insights into the target demographic and allows the company to market specific promotions to its largest customers.</blockquote>
 
-<b>Chief Marketing Officer (CMO):</b> <i>What are the sales monthly, quarterly, and yearly summarized by customer age and reward status, in addition to order placement method?</i>
-<blockquote>This analysis will allow the CMO to understand the demographics, loyalty, and order placement habits of customers in terms of sales. This information will inform marketing and promotion decisions to reach customers and establish loyalty, in addition to the development and support of the appropriate order placement platforms.</blockquote>
+<b>Chief Executive Officer (CEO):</b> <i>Which year generated the most profit?</i>
+<blockquote>This analysis will inform the CEO of which year they have performed the best, allowing them to then look further in to see why that is. This provides insights into what drives profit for the company.</blockquote>
+
+<b>Chief Marketing Officer (CMO):</b> <i>What region generated the most revenue?</i>
+<blockquote>This analysis will allow the CMO to understand the order placement habits in terms of regions in the US. This information will inform marketing and promotion decisions to establish continued loyalty in regions seeing high , in addition to the development of the business in regions where they are seeing less purchases.</blockquote>
 
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
