@@ -102,12 +102,9 @@ Silhouette Collective is a fashion concierge business that provides a highly per
     <td></td>
   </tr>
   <tr>
-    <td colspan="5">&nbsp;<b>Fact:</b> Product Price, Quantity, Sales*, Employee Days Worked**</td>
+    <td colspan="5">&nbsp;<b>Fact:</b> Purchase Table- OrderID, ShopperID, CustoerID, OrderDateID, OrderTotal, UnitPrice, UnitCost, Revenue, Cost, Profit</td>
   </tr>
 </table>
-
-*Price x Quantity
-<br>**Distinct count of order date by employee
 
 ### Star Schema
 
