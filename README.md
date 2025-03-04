@@ -16,7 +16,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <ul>
   <li><b>Taken classes in a wide range of business areas: Business Analytics, Finance, Accounting, Management, Communciation, Marketing, and Business Law.</li>
   <li><b>Skills in Python, SQL, R, Tabelau, and Power BI.</li>
-  <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
+</li>
 </ul>
 
 <a name="profExp"></a>
