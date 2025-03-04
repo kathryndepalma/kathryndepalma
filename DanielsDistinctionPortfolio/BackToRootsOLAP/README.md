@@ -55,226 +55,50 @@ Silhouette Collective is a fashion concierge business that provides a highly per
   </tr>
   <tr>
     <th>Date</th>
-    <th>Product</th>
+    <th>Shopper</th>
+    <th>Brand</th>
+    <th>Item</th>
     <th>Customer</th>
-    <th>Employee</th>
-    <th>Order</th>
+    <th>Special</th>
   </tr>
   <tr>
-    <td>Date</td>
-    <td>Product Type</td>
-    <td>DOB (Age)</td>
-    <td>First Name</td>
-    <td>Placement</td>
+    <td>Year</td>
+    <td>ShopperID</td>
+    <td>BrandID</td>
+    <td>ItemID</td>
+    <td>CustomerID</td>
+    <td>SpecialRequestID</td>
   </tr>
   <tr>
-    <td>Full Date</td>
-    <td>Product Name</td>
-    <td>City</td>
-    <td>Last Name</td>
-    <td>Fulfillment</td>
-  </tr>
-  <tr>
-    <td>Day of Month</td>
-    <td>Diet</td>
-    <td>State</td>
-    <td>Position Type</td>
-    <td>Location Street Address</td>
-  </tr>
-  <tr>
-    <td>Day Name</td>
-    <td>Product Price (bin)</td>
-    <td>Zip Code</td>
-    <td>Position Name</td>
-    <td>Location City</td>
-  </tr>
-  <tr>
-    <td>Day of Week</td>
-    <td></td>
-    <td>Reward Status</td>
-    <td>Wage Type</td>
-    <td>Location State</td>
-  </tr>
-  <tr>
-    <td>Day Week in Month</td>
-    <td></td>
-    <td>Reward Status Join Date</td>
-    <td>Wage (bin)</td>
-    <td>Location Zip Code</td>
-  </tr>
-  <tr>
-    <td>Day of Week in Year</td>
-    <td></td>
-    <td>Reward Status End Date</td>
-    <td>Hire Date</td>
-    <td>Associated Reward Status</td>
-  </tr>
-  <tr>
-    <td>Day of Quarter</td>
-    <td></td>
-    <td></td>
-    <td>End Date</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Day of Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Week of Month</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Week of Quarter</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Week of Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Quarter</td>
+    <td>Shopper Name</td>
+    <td>BrandName</td>
+    <td>ItemName</td>
+    <td>CustomerName</td>
+    <td>CustomerID</td>
   </tr>
   <tr>
     <td>Month</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>BrandRank</td>
+    <td>Color</td>
+    <td>Size</td>
+    <td>Event</td>
   </tr>
   <tr>
-    <td>Month Name</td>
+    <td>Date</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>BrandName</td>
+    <td>MainColorPref</td>
+    <td>BrandName</td>
   </tr>
   <tr>
-    <td>Month of Quarter</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Quarter</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Quarter Name</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Year Name</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Month Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>MMYYYY</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>First Day of Month</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Last Day of Month</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>First Day of Quarter</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Last Day of Quarter</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>First Day of Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Last Day of Year</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Is Holiday</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Is Weekday</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Holiday</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Season</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>ItemPreference</td>
+    <td>SecondColorPref</td>
     <td></td>
   </tr>
   <tr>
