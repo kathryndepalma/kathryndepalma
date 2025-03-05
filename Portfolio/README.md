@@ -78,7 +78,7 @@ Through my time in Gamma Phi Beta and Girls on the Run, I gained a deeper unders
 
 ## Technical Knowledge
 [<img src="https://user-images.githubusercontent.com/91146906/160903916-f1121ac9-ebfc-480a-9dc7-852b33104701.svg" height="35"/>](#CMCST)
-[<img src="https://user-images.githubusercontent.com/91146906/160903984-a2bcca0a-7e91-4856-93b2-c97e60528097.svg" height="35"/>](#OLTP)
+[<img src="https://user-images.githubusercontent.com/91146906/160903984-a2bcca0a-7e91-4856-93b2-c97e60528097.svg" height="35"/>](#SC)
 [<img src="https://user-images.githubusercontent.com/91146906/160904040-9abe5b2d-e2a0-4f4c-a7b6-c911305bcbd8.svg" height="35"/>](#OLAP)
 [<img src="https://user-images.githubusercontent.com/91146906/160904098-dc1cb242-8a59-4691-bf4d-17c118dbfd62.svg" height="35"/>](#VBA)
 
@@ -95,18 +95,18 @@ This internship helped me refine my ability to work with data and communicate in
 <table>
   <tr>
     <td>
-      <img src="https://github.com/kathryndepalma/kathryndepalma/path/to/ComcastInternTeam.jpg" height="460">
+      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/path/to/ComcastInternTeam.jpg" height="460">
       <br><i>Comcast Intern Team</i>
-      </td>
+    </td>
   </tr>
 </table>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="OLTP"></a>
-### Database Project: Back to Roots OLTP
-<i>Winter 2021</i>
+<a name="SC"></a>
+### Database Project: Silhouette Collective
+<i>Fall 2024</i>
 <br>
 <br>During my Foundations or Information Management class in Winter 2021, I was tasked with planning, designing, building, and programming aspects of an information management system using Microsoft Word (documentation), Visio (diagraming), and Access (relational database). This included designing a relational database, simulating data, building the relational database in Access, loading the data into the relational database, querying the relational database using SQL, and developing relational database forms and reports, including using VBA macros, functions, and sub procedures.
 <br>
@@ -116,11 +116,6 @@ This internship helped me refine my ability to work with data and communicate in
 <br>
 
 https://user-images.githubusercontent.com/91146906/137153830-d4bc600c-1931-483e-86c0-f72f6e6f0806.mp4
-
-<i>Unmute video for narration</i>
-<br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../DanielsDistinctionPortfolio/BackToRootsOLTP/#top)
-
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
