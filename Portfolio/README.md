@@ -81,7 +81,7 @@ Through my time in Gamma Phi Beta and Girls on the Run, I gained a deeper unders
 
 Throughout the internship, I developed my ability to interpret complex data, identify trends, and present findings in a clear and concise manner to regional and divisional leaders. My work directly contributed to the optimization of sales strategies, helping the team improve the accuracy of data collection by 11%. The experience not only enhanced my technical skills but also gave me valuable exposure to business processes and decision-making in a corporate environment.
 
-This internship helped me refine my ability to work with data and communicate insights to drive business growth, which I continue to apply in my academic and professional pursuits.
+I was also able to collaborate witha an intern team full of 5 summer interns from different departments. We worked on a project all summer on how to improve Comcast hiring practices. We then had the chance to present our recommendations, including the creation of an AI chatbot, to leaders across the business. This internship helped me refine my ability to work with data and communicate insights to drive business growth, which I continue to apply in my academic and professional pursuits.
 
 ### Summer 2024 Interns
 <img src="https://github.com/user-attachments/assets/d02b26ae-3824-4583-bc34-850e99e479d6" width="500" />
