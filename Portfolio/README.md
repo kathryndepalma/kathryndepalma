@@ -83,14 +83,13 @@ Throughout the internship, I developed my ability to interpret complex data, ide
 
 This internship helped me refine my ability to work with data and communicate insights to drive business growth, which I continue to apply in my academic and professional pursuits.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/ComcastInternTeam.jpg" height="460" width="auto">
-      <br><i>Comcast Intern Team</i>
-    </td>
-  </tr>
-</table>
+### Image 1
+![Image 1](https://github.com/user-attachments/assets/d02b26ae-3824-4583-bc34-850e99e479d6)
+*Comcast Interns Summer 2024*
+
+### Image 2
+![Image 2](https://github.com/user-attachments/assets/7d41c897-6cb8-46a7-a71b-32db4f743cee)
+*My Intern Team*
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
