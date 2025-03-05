@@ -18,7 +18,7 @@
 ## Introduction
 Silhouette Collective is a fashion concierge business that provides a highly personalized shopping experience to each and every customer. We collect personal information from each client, such as their clothing sizes, brand preferences, favorite colors, and item preferences to create a customer profile that is assigned to one of our experienced shoppers within the company. The shopper can then shop for specific events or just singular items per the customer’s request. As a new company, we have decided to perform this analysis to get a feel for our earnings and scope within the market thus far. This analysis offers key insights into our performance across various products, markets nationwide, and earnings by product. We can use these key insights to drive our future business decisions surrounding expansion into more markets, our product offerings, as well as our criteria for selecting clothing. As our stakeholders, we hope this analysis reassures you of our potential as a business and our bright future within the online shopping industry. While we have had many successes, as seen in this analysis there is always room for improvement and we look forward to expanding Silhouette Collective and furthering our success.
 <br>
-<br>The creation of a Silhouette Collective database gives Silhouette Collective a look into customer insights, process optimization, and data-driven decision-making insights to compete in an increasingly competitive industry and to maximize their company potential. We created a data mart to be able to optimize reporting, archive their data, as well as consolidate their large sum of data.
+<br>The creation of a Silhouette Collective database gives Silhouette Collective a look into customer insights, process optimization, and data-driven decision-making insights to compete in an increasingly competitive industry and to maximize their company potential. We created a data mart to be able to optimize reporting, archive their data, as well as consolidate their large amount of data.
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
@@ -108,7 +108,7 @@ Silhouette Collective is a fashion concierge business that provides a highly per
 
 ### Star Schema
 
-<img width="700" alt="BackToRootsDMStarSchema" src="https://user-images.githubusercontent.com/91146906/152288067-6de2031c-267d-4d4c-8cdf-eb1cfff8ddaf.png">
+<img width="700" alt="SilhouetteCollectiveDMStarSchema" src="https://user-images.githubusercontent.com/91146906/152288067-6de2031c-267d-4d4c-8cdf-eb1cfff8ddaf.png">
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
@@ -116,9 +116,9 @@ Silhouette Collective is a fashion concierge business that provides a highly per
 <hr>
 	
 ## Build Script
-The Back to Roots data mart build script creates the "BackToRootsDM" data mart if it does not exist, deletes tables if they exist, and creates dimension tables and the fact table with the appropriate attributes and constraints. Due to the logic, the script can be run multiple times without error.
+The Silhouette Collective data mart build script creates the "SilhouetteCollectiveDM" data mart (if it does not already exist), deletes tables, and creates dimension tables and the fact table with the correct attributes and constraints. The script is able to run multiple times without error.
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../BackToRootsOLAP/BuildBackToRootsDM.sql)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../SilhouetteCollective/SilhouetteCollectiveBuildScriptDM.sql)
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
@@ -133,7 +133,7 @@ Using Visual Studio and SSIS, data is extracted from the Back to Roots OLTP, tra
 ### DimDate
 DimDate is loaded using the LoadDimDate.sql SQL query, which was provided.
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../BackToRootsOLAP/LoadDimDate.sql)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../SilhouetteCollective/CollectiveLoadDimDate.sql)
 
 ### DimProduct
 DimProduct is loaded using the following SQL query.
