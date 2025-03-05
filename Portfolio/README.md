@@ -42,8 +42,8 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <hr>
 
 ## Community Engagment
-[<img src="https://user-images.githubusercontent.com/91146906/152072147-f6e15400-5167-45c0-b0c7-6df818a3fde2.svg" height="35"/>](#IELLC) **IELLC**  
-[<img src="https://user-images.githubusercontent.com/91146906/152072177-b0da1e15-4fc8-49f3-a9fe-49736e3057d8.svg" height="35"/>](#GPB) **Gamma Phi Beta**
+[![Innovatio and Entrepreneurship LLC](https://user-images.githubusercontent.com/91146906/152072147-f6e15400-5167-45c0-b0c7-6df818a3fde2.svg)](#IELLC)  
+[![Gamma Phi Beta](https://user-images.githubusercontent.com/91146906/152072177-b0da1e15-4fc8-49f3-a9fe-49736e3057d8.svg)](#GPB)
 
 <a name="IELLC"></a>
 ### Innovation and Entrepreneurship Living and Learning Community
