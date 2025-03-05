@@ -108,41 +108,8 @@ This internship helped me refine my ability to work with data and communicate in
 ### Database Project: Silhouette Collective
 <i>Fall 2024</i>
 <br>
-<br>During my Foundations or Information Management class in Winter 2021, I was tasked with planning, designing, building, and programming aspects of an information management system using Microsoft Word (documentation), Visio (diagraming), and Access (relational database). This included designing a relational database, simulating data, building the relational database in Access, loading the data into the relational database, querying the relational database using SQL, and developing relational database forms and reports, including using VBA macros, functions, and sub procedures.
+<br>During my Data Warehousing and Business Intelligence class in Fall 2024, we was tasked with planning, designing, building, and programming aspects of an information management system using Microsoft Word, Visio, and Access. This included designing and accessing a relational database, simulating data, building the relational database, loading the data into the database, querying the database using SQL, and developing reports based off of our analysis. We created dashboards in both Tabelau and Power BI to inform the company, Silhouette Collective, of their business metrics.
 <br>
-<br><i>Spring 2021</i>
-<br>
-<br>During my Enterprise Information Management class in Spring 2021, I expanded this relational database, adding tables and moving it to Microsoft SQL Server Management Studio. This included designing, building, and programing an enterprise information management database using SQL Server and Azure; designing, building, and programing interactive forms using Visual Studio and SQL Server; and designing, building, and programing a Windows integrated application, along with reports, using Visual Studio and SQL Server. Throughout this process, I used SQL (build script, function, stored procedure, views, reports) and Visual Basic (forms).
-<br>
-
-https://user-images.githubusercontent.com/91146906/137153830-d4bc600c-1931-483e-86c0-f72f6e6f0806.mp4
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="OLAP"></a>
-### Database Project: Back to Roots OLAP
-<i>Fall 2021</i>
-<br>
-<br>During my Data Warehousing and Business Intelligence class in Fall 2021, I used my Back to Roots OLTP to plan, design, and build an enterprise data mart (OLAP) using SQL Server, Visio, Visual Studio, Excel, and Power BI. Throughout this process, I created busienss requirements and designed the data mart; built the data mart; extracted, transformed, and loaded (ETL) the data mart; and developed reports and dashboards from the data mart to answer the the business requirements' questions.
-<br>
-<br><img width="1211" alt="BackToRootsDashboard" src="https://user-images.githubusercontent.com/91146906/152289272-89e5505c-4e6a-4f29-b516-66ec308c28af.png">
-<br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152109152-fbd18f8c-4c42-46f6-97cc-631c298e7eac.svg" height="35"/>](../DanielsDistinctionPortfolio/BackToRootsOLAP/#top)
-
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="VBA"></a>
-### Automating Business Processes with VBA
-<i>Winter 2021 - Spring 2022</i>
-<br>
-<br>In my Automating Business Processes class, I learned how to streamline processes and reduce repetitive work, specifically using VBA in Excel. After just a couple weeks, I realized the real impact this could have on the work I was doing for the Microsoft Office Certification Program. By automating repetitive, time-consuming tasks, my team and I could focus our energies elsewhere, like on maximizing support for TAs and students and growing the program.
-<br>
-<br>The repetitive task I identified and sought to automate was matching registrations for the certification exams against a list of students supposed to be registered for those exams. While it may seem trivial, this consumed unnecessary time and effort when completed manually, particularly given how frequently the task is completed. After understanding the process and goal, I designed and developed a solution to complete this task with the click of a button, and I added additional functionality, like error checking, to better meet our needs and even improve our work. Since its implementation, I have trained team members on how to use it, provided documentation, and maintained and improved it. This is just one example of identifying a problem and developing a solution, ultimately allowing our team to minimize repetitive work and maximize time and energies on student, staff, and program development.
-<br>
-<br>This project allowed me to develop my skill set, particularly related to coding and seeing a project through every phase of the development cycle including planning, analysis, design, implementation, testing, training, and maintenance.
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
@@ -150,21 +117,21 @@ https://user-images.githubusercontent.com/91146906/137153830-d4bc600c-1931-483e-
 <a name="Global"></a>
 <hr>
 
-## Global and Intercultural Competence
+## Global Experience
 
 [<img src="https://user-images.githubusercontent.com/91146906/161900652-98c6a3f7-3dfe-4705-8ea0-06376a7672af.svg" height="35"/>](#GlobalCitizenship)
 [<img src="https://user-images.githubusercontent.com/91146906/161900702-4e7fa7a4-19f7-4859-9441-b7e23afa6df5.svg" height="35"/>](#InternationalBus)
 [<img src="https://user-images.githubusercontent.com/91146906/161900739-32ba4e02-5219-4e56-92ec-ba67f3dfe484.svg" height="35"/>](#Worldviews)
 
-Traveling internationally and educating myself on cultures other than my own has always been a passion of mine. With that, I have traveled to thirteen countries with many opportunities to engage with locals, whether living with a host family in Spain or visiting a slum in India.
+Traveling has always been a very important part of my life since a young age. I first left the country alone at 10 years old, where I attended an international summer camp called CISV, which promoted peace among children of different cultures.
 <br>
-<br>Unfortunately, with the ongoing COVID-19 pandemic, my study abroad program to New Zealand was cancelled, and I did not have the opportunity to travel abroad in college. Nonetheless, I found opportunities at DU to expand by intercultural competence, practice inclusive excellence, and consider multiple perspectives. Further, I am planning a trip abroad for Summer 2022 to continue growing in these areas.
+<br>When I entered college, I knew that studying abroad was something I wanted to take advantage of. I had the opportunity to study abroad in Sevilla, Spain during the fall quarter of my junior year in 2023.
 
 <a name="GlobalCitizenship"></a>
 ### Exploring Global Citizenship
 <i>Fall 2019</i>
 <br>
-<br>Although my study abroad program was cancelled, I took a class on Exploring Global Citizenship in preparation of going abroad. This course helped me examine how my own culture and identity may interact with other cultures. Specifically, I examined how historical events, political climates, and social disparities surrounding privilege may influence others' views of and assumptions about me. Further, I educated myself on subtle cultural differences I may encounter, inlcluding differences in language and communication, approach to conflict, and cultural tendencies ([Hofstede's cultural dimensions](https://www.hofstede-insights.com/)).
+<br>Although my study abroad program was cancelled, I took a class on Exploring Global Citizenship in preparation of going abroad. This course helped me examine how my own culture and identity may interact with other cultures. Specifically, I examined how historical events, political climates, and social disparities surrounding privilege may influence others' views of and assumptions about me. Further, I educated myself on subtle cultural differences I may encounter, inlcluding differences in language and communication, approach to conflict, and cultural tendencies.
 <br>
 <br>The awareness I developed in this course proved worthwhile beyond studying abroad, as it applies to my interactions with anyone whose background and experiences differ from my own. Recognizing and understanding cultural differences gives me an opportunity to reflect on the "why" of certain interactions and to begin understanding those interactions from the perspective of those with different cultural backgrounds than my own. This ability has the potential to help avoid miscommunications and to diffuse uncomfortable situations, which is valuable in any setting.
 
@@ -181,41 +148,10 @@ Traveling internationally and educating myself on cultures other than my own has
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="Worldviews"></a>
-### Connecting Across Worldviews
-<i>Winter 2022</i>
-<br>
-<br>In my role as the TA Coordinator for the Microsoft Office Certification Program, I continuously seek opportunities to expand our team's skill set through personal and professional growth. One example of this is working with the Inclusion & Equity Education department at DU to bring our team a workshop on worldviews and connecting across them–a session valuable in learning to consider multiple perspectives. 
-<br>
-<br>Every day, I interact with people who have different beliefs, expectations, and values than my own, which results in different perceptions of the same experiences. This workshop helped me better understand what worldviews are, the role they play in my interactions with others, and how I can identify commonality to connect across them. One of my key takeaways was intent versus impact and how to navigate situations in which the intent of my actions does not match the impact. Further, it served as a reminder to regularly check my assumptions (and the assumptions others may have) and to ask questions with curiosity. Following this session, I was able to implement what we discussed to more productively understand and engage with others. 
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="Ethics"></a>
-<hr>
-
-## Ethics
-[<img src="https://user-images.githubusercontent.com/91146906/162368149-5c3c245e-5798-448e-93be-e40a67ccf1ea.svg" height="35"/>](#EBC)
-
-<a name="EBC"></a>
-### Ethics Bootcamp
-<i>Winter 2020</i>
-<br>
-<br>As part of my Ethics and Legal Studies class, I had the opportunity to partake in Ethics Bootcamp, where I attended a variety of sessions surrounding ethics and the Daniels Fund Ethics Initiative Principles (integrity, trust, accountability, transparency, fairness, respect, rule of law, and viability). Two sessions I found most impactful were Considerations of Driverless Mobility by Professor Libbi Levine Segev and Fraud, Lies, and Hermes Ties by Aaron Beam.
-<br>
-<br>Driverless mobility is an interesting ethical dilemma, specifically in terms of the code behind it. Developers make decisions when writing the cars' code that impact the livelihood of the driver and their surroundings, including other people. For example, if a crash is inevitable, who or what will be protected by the car–and really by the coders behind the technology. Driverless mobility is just one of many ethical delimmas in the advancing technology space, and it poses interesting questions to be considered. This session got me thinkning about those questions and the broader implications, including the potential ethical considerations behind code I develop.
-<br>
-<br>Aaron Beam was co-founder and CFO of HealthSouth, and in his presentation, he shared the ethical dilemma he faced when his boss, Richard Scrushy, asked him to fix the numbers to prevent a drop in share price. Although recognizing it was wrong, Mr. Beam altered the numbers "just this once." Inevitably, this led to numerous instances of "cooking the books" until it eventually caught-up to him. My key takeaways from Mr. Beam's story is the courage it takes to act on doing right, rather than just knowing right versus wrong, and how small concessions can quickly lead to loosing oneself.
-<br>
-<br>Ethics Bootcamp was a rewarding and inspiring experience in collaborating with my peers to consider the role of ethics in our daily lives, and the key takeaways continue to resonate with me in the work I do and decisions I make.
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
 <a name="Fun"></a>
 <hr>
 
-## And a little fun in the Colorado outdoors...
+## Taking advantage of all that Colorado had to offer:
 <table>
   <tr>
     <td>
