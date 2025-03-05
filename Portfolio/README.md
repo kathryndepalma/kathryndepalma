@@ -123,5 +123,17 @@ Traveling has always been a very important part of my life since a young age. I 
 <br>
 <br>While studying abroad, I had the incredible opportunity to travel to eight countries across Europe and Africa, including Portugal, Morocco, France, Italy, England, Scotland, Ireland, and Switzerland. Exploring these diverse regions allowed me to experience different cultures, histories, and perspectives, further enriching my global understanding and appreciation for international connections.
 
+### Sevilla, Spain
+<img src="![Sevilla](https://github.com/user-attachments/assets/c932af00-d04a-482c-9f1b-d166d473b6b4)" width="500" />
+
+### Sahara Desert, Morocco
+<img src="![Morocco](https://github.com/user-attachments/assets/d9b08e7c-ac30-470b-b238-7bae39b43c29)" width="500" />
+
+### Students from Colorado in Morocco
+<img src="![Desert in morocco](https://github.com/user-attachments/assets/76944509-1940-4c19-b7fe-663cca0d97b5)" width="500" />
+
+### Interlaken, Switzerland
+<img src="![interlaken](https://github.com/user-attachments/assets/8ef36338-10e8-46a4-8b27-3bed4b7e27fd)" width="500" />
+
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
