@@ -35,7 +35,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <br>
 <br>In this essay, I analyzed the global economy through a structuralist lens, focusing on how global economic systems and inequalities are shaped by historical and institutional structures. I worked to break down complex economic theories and present them in a way that is digestible for a broader audience. This helped me enhance my ability to communicate sophisticated economic concepts in simpler terms, a skill that is essential both in technical analysis and when explaining intricate subjects to individuals with varying levels of expertise.
 
-[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](‎ResponsePaper2.pdf)
+[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../‎ResponsePaper2.pdf)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
