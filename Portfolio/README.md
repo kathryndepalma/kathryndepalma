@@ -8,7 +8,7 @@
 <br><br>
 Welcome to my portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
-[<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#Communication)
+[<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#)
 [<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityInvolvement)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
