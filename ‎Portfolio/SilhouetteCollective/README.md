@@ -291,20 +291,49 @@ ON
 ![image](https://github.com/user-attachments/assets/ad429715-cf50-42ed-a519-4a55147fcf19)
 
 ### Analysis
-Sales experienced a steady increase, despite seasonality, from Back-to-Root's opening in February 2018 through September 2019, then a sharp increase was seen in October 2019. Sales hit their peak of $1,273,807.50 in January 2020 before a drastic drop to $147,357 in April 2020 due to the COVID-19 pandemic and the associated impacts. Back-to-Roots closed for a period and then was only able to offer delivery and pick-up options. Since then, sales have once again been steadily increasing and are projected to continue doing so, although seasonality will result in some increases and decreases in sales.
-<br>
-<br>Of the Back-to-Roots customers who have disclosed birthdays, most (574) customers fall in the 30-39 age group and make-up $1.32 million of the $17.51 million sales. The data suggests these customers prefer an online order placement method, with 43.9% of orders by customers aged 30-39 placed online (compared to 33.9% for all customers). Similarly, the 490 customers aged 40-49, 446 customers aged 20-29, and 362 customers aged 50-59 place more orders online than in-store or via phone. While all age groups place a percentage of orders in-store, this order placement method is used most often by customers with undisclosed birthdays. This could be because it is easy to input your birthday when placing an online order, and it is less common to disclose birthday information when in-store.
-<br>
-<br>Of the orders associated with a rewards status (i.e. not placed by customers with no rewards), 45.3% are placed online (compared to 33.9% for all orders) and 39.1% are placed in-store (compared to 51.4% for all orders). Thus, the data suggests that more loyal customers prefer the online order placement method. Further, orders not associated to a reward status have an average order total of $85, while orders associated to the bronze status average $95, associated to silver status average $96, associated to gold status average $93, and associated to platinum status average $94. Thus, the data suggests having a reward status leads to more spending per order, but the level of reward status does not necessarily make a difference.
-<br>
-<br>The majority of sales are from customers with Boulder and Longmont addresses, likely because there are Back-to-Roots locations in each of these places. There are also some sales from customers in Niwot and Lafayette; however, sales are isolated to customers in these four cities.
+
+#### Key Findings
+
+1. **Top and Bottom States by Revenue:**
+   - The top three states generating the most revenue are California ($322,570), Texas ($319,175), and Florida ($223,820).
+   - The bottom three states are Rhode Island ($4,345), Maine ($1,750), and Vermont ($1,615).
+   - The top states have larger populations, while the bottom states are concentrated on the East Coast.
+
+2. **Profit by Year:**
+   - The **Profit by Year** line chart reveals a significant effect of the **Covid-19 pandemic** on profits, especially in 2020.
+   - **March to April 2020** shows a dramatic increase in profit as customers were confined to their homes.
+   - **May 2020** shows a drop in profit as customer income slowed due to job losses, with fewer people willing to spend during uncertain times.
+   - There is consistent low profit from **January to March** each year, and higher profits around **Halloween**, **Thanksgiving**, and **Christmas**. 
+   - A consistent drop in profit is observed from **August to September** each year.
+
+3. **Event Type Revenue and Profit:**
+   - **Club** category: Revenue around **$147,600**, with costs of **$90,000**, leading to a profit of **$57,010**.
+   - **Night-General** category: Revenue around **$1,000,000**, with costs of **$610,000**, resulting in a profit of **$389,225**.
+
+4. **Item Orders:**
+   - **Hats** are the number one item being bought, with the other two items trailing closely behind.
+   - As a smaller company, we started with a limited item selection to test market success before expanding.
+
+---
 
 ### Recommendations
-<ul>
-  <li>Continue developing, improving, and promoting the online order placement system, as many loyal customers prefer this order placement method.</li>
-  <li>Promote rewards program, as it may lead to more spending per order. Further, consider adjusting incentives between rewards tiers to increase spending.</li>
-  <li>Market to potential customers in cities surrounding Boulder, Longmont, Niwot, and Lafayette to increase customer base (delivery may be appealing).</li>
-</ul>
+
+1. **Invest More on the East Coast:**
+   - Increase marketing efforts in east coast states by gathering customer contact information (e.g., email, text message sign-ups) for targeted campaigns.
+   - Conduct annual surveys asking customers what products they want to see, considering regional preferences (e.g., winter items in colder climates).
+
+2. **Address the Profit Drop from August to September:**
+   - Implement special deals during these months to boost profit and incentivize customers to begin holiday shopping earlier.
+   - Create **fall deals** as clothing companies start transitioning into winter clothing, aligning with seasonal demands.
+   - Expand the product offerings to include **more summer clothing** to increase profits at the end of summer/beginning of fall.
+
+3. **Tailor Product Offerings Based on Event Types:**
+   - Focus on expanding products for high-revenue Event Types like **Night-General** and **Wedding**.
+   - Limit product offerings for low-revenue categories like **Club** and **Day-General**, potentially reducing costs by introducing more affordable products.
+
+4. **Expand Item Selection:**
+   - Use customer survey results to identify what products consumers want, and tailor product offerings based on these findings.
+   - Regularly assess which items perform best and which need to be adjusted or phased out, ensuring alignment with consumer demands nationwide.
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
