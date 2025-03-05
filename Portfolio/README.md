@@ -28,7 +28,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <br>
 <br>In this essay, I explored the concept of a utopian place around Denver, carefully examining its characteristics and envisioning its idealistic features. I translated complex ideas about urban development and community well-being into accessible language for a general audience. This process allowed me to refine my ability to synthesize and present intricate concepts in a way that resonates with readers outside of specialized fields. These skills are valuable in my technical analysis work and in communicating complex data effectuvily to non-technical audiences, ensuring that my insights can be understood and applied.
 
-[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../DanielsDistinctionPortfolio/ChildEmotionalMaltreatmentBlogPost.pdf)
+[<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../UtopianUrbanismAssignment1.pdf)
 
 #### The Impacts of Screen Time on Mental, Emotional, and Relational Health in Children Ages 0-10
 <i>Fall 2020</i>
@@ -48,12 +48,12 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 [<img src="https://user-images.githubusercontent.com/91146906/152072235-a176c4f0-2cb8-4e2c-917b-a58e49aecbd2.svg" height="35"/>](#HLP)
 
 <a name="WLLC"></a>
-### Wellness Living and Learning Community
-<i>Fall 2018 - Spring 2019</i>
+### Innovation and Entrepreneurship Living and Learning Community
+<i>Fall 2021 - Spring 2022</i>
 <br>
-<br>The Wellness Living and Learning Community (LLC) is a group of first-year students living and taking academic classes together. I joined this community to help myself integrate into college with the support of those holding similar values and goals as myself. In my first weeks of school, I remember counting the hours I was expected to spend weekly on my classes and job: 18 hours of class, 36-54 hours of classwork, 10 hours of work, plus time for myself. At that point, I could not fathom how this was possible: When was I supposed to find time for myself? In this challenging transition, I sought balance through my academic and personal wellness journeys, and the Wellness LLC helped me focus on cultivating and maintaining a healthy lifestyle as it applies to self, spirituality, and community.
+<br>The Innovation and Entrepreneurship Living and Learning Community (LLC) is a group of first-year students living and taking academic classes together. I joined this community to help myself integrate into college with a group of people who have similar interests. In the challenging transition to college, I found balance in my academic and personal life through this LLC.
 <br>
-<br>The classes and experiences in the Wellness LLC challenged me to prioritize my own wellness, in addition to the wellness of those around me. With the opportunity to explore and try new things, I learned a great deal about myself and the impact I can have on those around me. My time with the Wellness LLC enhanced my first year of college, and it gave me new perspective in navigating subsequent years, including that relating to my own wellness journey and my role in supporting others' journeys.
+<br>The classes and experiences in the  LLC challenged me to think outside of the box. With the opportunity to explore and try new things, I learned a great deal about myself and the impact I can have on the business wolrd. Being a part of this group gave me new perspective in navigating my career and charting my own path.
 <br>
 
 <details>
