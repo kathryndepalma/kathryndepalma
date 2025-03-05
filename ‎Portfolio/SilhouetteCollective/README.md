@@ -131,7 +131,8 @@ LEFT JOIN
 ```
 
 ### DimCustomer
-```SELECT
+```sql
+SELECT
 	CustomerID AS Customer_BK,
 	LastName,
 	FirstName,
@@ -178,6 +179,7 @@ ON
 	st.RegionCode = r.RegionCode;
 
 ### DimEventType
+```sql
 SELECT
 	EventTypeID AS EventType_BK,
 	EventType
@@ -185,7 +187,8 @@ FROM
 	SilhouetteCollective.dbo.EventType;
 ```
 ### DimShopper
-```SELECT
+```sql
+SELECT
 	ShopperID AS Shopper_BK,
 	LastName,
 	FirstName,
@@ -230,7 +233,8 @@ ON
 	st.RegionCode = r.RegionCode;
 ```
 ### FactPurchase
-```SELECT
+```sql
+SELECT
 	p.PurchaseID,
 	pri.PurchaseItemID,
 	dimd.Date_SK AS PurchaseDate,
