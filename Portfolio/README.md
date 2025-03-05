@@ -21,7 +21,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 
 <a name="Writing"></a>
 ### Writing Samples
-#### Good Urbanims: Ruby Hill Park
+#### Good Urbanism: Ruby Hill Park
 <i>Winter 2025</i>
 <br>
 <br>In this essay, I explored the concept of a utopian place around Denver, carefully examining its characteristics and envisioning its idealistic features. I translated complex ideas about urban development and community well-being into accessible language for a general audience. This process allowed me to refine my ability to synthesize and present intricate concepts in a way that resonates with readers outside of specialized fields. These skills are valuable in my technical analysis work and in communicating complex data effectivily to non-technical audiences, ensuring that my insights can be understood and applied.
