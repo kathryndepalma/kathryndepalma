@@ -53,45 +53,39 @@ Silhouette Collective is a fashion concierge business that provides a highly per
   <tr>
     <th>Date</th>
     <th>Shopper</th>
-    <th>Brand</th>
     <th>Item</th>
     <th>Customer</th>
-    <th>Special</th>
+    <th>EventType</th>
   </tr>
   <tr>
     <td>Year</td>
     <td>ShopperID</td>
-    <td>BrandID</td>
     <td>ItemID</td>
     <td>CustomerID</td>
-    <td>SpecialRequestID</td>
+    <td>EventTypeID</td>
   </tr>
   <tr>
     <td>Quarter</td>
     <td>Shopper Name</td>
-    <td>BrandName</td>
     <td>ItemName</td>
     <td>CustomerName</td>
-    <td>CustomerID</td>
+    <td>EventTypeName</td>
   </tr>
   <tr>
     <td>Month</td>
     <td></td>
-    <td>BrandRank</td>
     <td>Color</td>
     <td>Size</td>
-    <td>Event</td>
+    <td>EventType</td>
   </tr>
   <tr>
     <td>Date</td>
     <td></td>
-    <td></td>
     <td>BrandName</td>
     <td>MainColorPref</td>
-    <td>BrandName</td>
+    <td></td>
   </tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
     <td>ItemPreference</td>
