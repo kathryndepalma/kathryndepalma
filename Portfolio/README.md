@@ -8,14 +8,14 @@
 <br><br>
 Welcome to my portfolio, highlighting my undergraduate experiences and work at the University of Denver!
 <br><br>
-[<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#CommunucationInterpersonal)
+[<img src="https://user-images.githubusercontent.com/91146906/160904313-d3515906-abf0-4f63-9a9c-c8dcdb80c446.svg" height="35"/>](#Communication)
 [<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityInvolvement)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/162367305-5589f7ee-e667-468e-9548-4ee401f7f683.svg" height="35"/>](#Ethics)
 [<img src="https://user-images.githubusercontent.com/91146906/162367370-96cd19ed-02c8-4511-86d6-1cc358e56458.svg" height="35"/>](#Fun)
 
-<a name="Communucation"></a>
+<a name="Communication"></a>
 <hr>
 
 ## Communucation
