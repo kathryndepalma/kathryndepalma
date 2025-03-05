@@ -23,7 +23,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <hr>
 
 ## Jobs and Internships
-# I am a degreed analytics professional who uses a full suite of data tools to inspire quantified business improvements on a Fortune-50 scale.  I am seeking an opportunity to create similar value for clients of a top consulting firm.
+#### I am a degreed analytics professional who uses a full suite of data tools to inspire quantified business improvements on a Fortune-50 scale.  I am seeking an opportunity to create similar value for clients of a top consulting firm.
 <i>[See my LinkedIn](https://www.linkedin.com/in/kathryn-depalma/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
