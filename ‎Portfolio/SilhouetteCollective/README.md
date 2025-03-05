@@ -113,7 +113,8 @@ Using Visual Studio, we can extract data from the Silhouette Collective Database
 ### DimDate
 DimDate is loaded using the LoadDimDate.sql SQL query, which was provided.
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/CollectiveLoadDimDate.sql)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](kathryndepalma/Portfolio/SilhouetteCollective/CollectiveLoadDimDate.sql)
+
 
 ### DimItem
 ```sql
