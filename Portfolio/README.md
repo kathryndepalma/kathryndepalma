@@ -84,12 +84,12 @@ Throughout the internship, I developed my ability to interpret complex data, ide
 This internship helped me refine my ability to work with data and communicate insights to drive business growth, which I continue to apply in my academic and professional pursuits.
 
 ### Image 1
-<img src="https://github.com/user-attachments/assets/d02b26ae-3824-4583-bc34-850e99e479d6" width="300" />
-*Summer 2024 Interns*
+<img src="https://github.com/user-attachments/assets/d02b26ae-3824-4583-bc34-850e99e479d6" width="650" />
+Summer 2024 Interns
 
 ### Image 2
-<img src="https://github.com/user-attachments/assets/7d41c897-6cb8-46a7-a71b-32db4f743cee" width="300" />
-*My Intern Team*
+<img src="https://github.com/user-attachments/assets/7d41c897-6cb8-46a7-a71b-32db4f743cee" width="650" />
+My Intern Team
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
