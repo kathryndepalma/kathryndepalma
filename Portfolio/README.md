@@ -73,8 +73,6 @@ Through my time in Gamma Phi Beta and Girls on the Run, I gained a deeper unders
 <hr>
 
 ## Technical Knowledge
-[<img src="https://user-images.githubusercontent.com/91146906/160903916-f1121ac9-ebfc-480a-9dc7-852b33104701.svg" height="35"/>](#CMCST)
-[<img src="https://user-images.githubusercontent.com/91146906/160903984-a2bcca0a-7e91-4856-93b2-c97e60528097.svg" height="35"/>](#SC)
 
 <a name="CMCST"></a>
 ### Internship: Comcast Business Inside Sales Team
