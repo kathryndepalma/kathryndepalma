@@ -51,7 +51,6 @@ Bachelor of Science Business Administration – Business Information and Analyti
         <li>Python</li>
         <li>R</li>
         <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
         <li>Tableau</li>
        <li>PowerBI</li>
@@ -61,32 +60,30 @@ Bachelor of Science Business Administration – Business Information and Analyti
     <td>
      <ul>
         <li><a href = "https://www.credly.com/badges/5dc9033b-9206-47c2-9dc6-1f0d6dab4b88/linked_in_profile">Python- PCEP Certified Entry-Level Python Programmer</a></li>
-        <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
-        <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
-       <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
+        <li><a href = "https://www.credly.com/earner/earned/badge/5cbe9249-1411-4679-9551-dec87dca6053">Microsoft Associate Excel 2019</a></li>
+        <li><a href = "https://www.credly.com/earner/earned/badge/a88a6369-f4fa-477a-8515-ddbf916e660d">Microsoft Expert Word 2019</a></li>
+        <li><a href = "https://www.credly.com/earner/earned/badge/6c56cdb9-6da1-44f0-8b70-30fecac4da7c">Microsoft Associate PowerPoint 2019</a></li>
+       <li><a href = "https://www.credly.com/earner/earned/badge/a3b8b0cc-95fb-4d38-b02b-2bfc086c0114">Microsoft Associate Office Specialist 2019</a></li>
       </ul>
     </td>
   </tr>
   <tr>
-    <th>CliftonStrengths</th>
+    <th>Strengths</th>
     <th>Other Skills</th>
  </tr>
  <tr>
    <td>
      <ol>
-        <li>Learner</li>
-        <li>Responsibility</li>
-        <li>Achiever</li>
-        <li>Discipline</li>
-        <li>Intellection</li>
+        <li>Continuous Learner</li>
+        <li>Driven</li>
+        <li>Collaborative</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-       <li>Problem Solving</li>
+        <li>Curiosity</li>
+        <li>Problem Solving</li>
+       <li>Adapatability</li>
      </ul>
    </td>
  </tr>
