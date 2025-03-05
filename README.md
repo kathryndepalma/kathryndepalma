@@ -30,7 +30,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <li><b>Stranco (Manufacturing Firm)</li>
 <li><b>Terrace Room (Upscale Italian Restaurant)</li>
 
-[Check out my LinkedIn!](https://www.linkedin.com/in/kathryn-depalma/)</i>
+[Check out my LinkedIn!](https://www.linkedin.com/in/kathryn-depalma/) and [Resume!](https://github.com/kathryndepalma/kathryndepalma/raw/main/KathrynDePalmaResume.pdf)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
