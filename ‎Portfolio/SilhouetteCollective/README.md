@@ -116,24 +116,22 @@ DimDate is loaded using the LoadDimDate.sql SQL query, which was provided.
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/CollectiveLoadDimDate.sql)
 
 ### DimItem
+```sql
 SELECT
-	ItemID AS Item_BK,
-	Item,
-	Color,
-	Brand
+    ItemID AS Item_BK,
+    Item,
+    Color,
+    Brand
 FROM
-	SilhouetteCollective.dbo.Item i
+    SilhouetteCollective.dbo.Item i
 LEFT JOIN
-	SilhouetteCollective.dbo.Color c
-ON
-	i.ColorID = c.ColorID
+    SilhouetteCollective.dbo.Color c ON i.ColorID = c.ColorID
 LEFT JOIN
-	SilhouetteCollective.dbo.Brand b
-ON
-	i.BrandID = b.BrandID;
+    SilhouetteCollective.dbo.Brand b ON i.BrandID = b.BrandID;
+```
 
 ### DimCustomer
-SELECT
+```SELECT
 	CustomerID AS Customer_BK,
 	LastName,
 	FirstName,
@@ -185,9 +183,9 @@ SELECT
 	EventType
 FROM
 	SilhouetteCollective.dbo.EventType;
-
+```
 ### DimShopper
-SELECT
+```SELECT
 	ShopperID AS Shopper_BK,
 	LastName,
 	FirstName,
@@ -230,9 +228,9 @@ LEFT JOIN
 	SilhouetteCollective.dbo.Region r
 ON
 	st.RegionCode = r.RegionCode;
-
+```
 ### FactPurchase
-SELECT
+```SELECT
 	p.PurchaseID,
 	pri.PurchaseItemID,
 	dimd.Date_SK AS PurchaseDate,
@@ -277,7 +275,7 @@ LEFT JOIN
 	SilhouetteCollectiveDM.dbo.DimDate dimd
 ON
 	dimd.[Date] = p.PurchaseDate;
-
+```
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
 <a name="PowerBI"></a>
