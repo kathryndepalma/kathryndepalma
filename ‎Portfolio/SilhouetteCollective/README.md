@@ -7,8 +7,6 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152239160-8f8c18a2-e724-4be7-863d-bc94151212ce.svg" height="35"/>](#Introduction)
 [<img src="https://user-images.githubusercontent.com/91146906/152279618-21ae078d-3d0b-45ed-95f1-306e5030f301.svg" height="35"/>](#BusinessRequirements)
 [<img src="https://user-images.githubusercontent.com/91146906/152279677-02eb9847-1863-4641-b59c-58a0e6cd2f24.svg" height="35"/>](#DataMartDesign)
-[<img src="https://user-images.githubusercontent.com/91146906/152239510-6c631219-71bc-4281-9c8b-b9b1e805b3d8.svg" height="35"/>](#BuildScript)
-[<img src="https://user-images.githubusercontent.com/91146906/152280042-228b216c-e76c-4f34-80f6-f456a15358b2.svg" height="35"/>](#ETL)
 [<img src="https://user-images.githubusercontent.com/91146906/161397633-2e4d30dc-ba35-4fe9-b66d-9c8e91ba0f86.svg" height="35"/>](#PowerPivot)
 [<img src="https://user-images.githubusercontent.com/91146906/161397549-071ca628-25fa-4c34-91d1-78274cafc9b8.svg" height="35"/>](#PowerBI)
 
@@ -108,171 +106,192 @@ Silhouette Collective is a fashion concierge business that provides a highly per
 
 ### Star Schema
 
-<img width="700" alt="SilhouetteCollectiveDMStarSchema" src="https://user-images.githubusercontent.com/91146906/152288067-6de2031c-267d-4d4c-8cdf-eb1cfff8ddaf.png">
+![image](https://github.com/user-attachments/assets/8618f936-195a-4992-8e8d-126c16393cf3)
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="BuildScript"></a>
-<hr>
-	
-## Build Script
-The Silhouette Collective data mart build script creates the "SilhouetteCollectiveDM" data mart (if it does not already exist), deletes tables, and creates dimension tables and the fact table with the correct attributes and constraints. The script is able to run multiple times without error.
-<br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/SilhouetteCollectiveBuildScriptDM.sql)
-<br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
 <a name="ETL"></a>
 <hr>
 	
 ## Extract, Transform, and Load the Data Mart
-Using Visual Studio and SSIS, data is extracted from the Back to Roots OLTP, transformed, and loaded into the data mart.
-
-<img width="494" alt="ETL" src="https://user-images.githubusercontent.com/91146906/152477629-7ca615fb-5f35-420d-90c4-245779f5531c.png">
+Using Visual Studio, we can extract data from the Silhouette Collective Database, transform, and load it into the data mart.
 
 ### DimDate
 DimDate is loaded using the LoadDimDate.sql SQL query, which was provided.
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/CollectiveLoadDimDate.sql)
 
-### DimProduct
-DimProduct is loaded using the following SQL query.
-```SQL
--- BackToRootsDM DimProduct Source Query Written by Hannah McDonald
--- Originally Written: October 2021 | Updated November 2021
----------------------------------------------------------------
--- Script query to select products for DimProduct
+### DimItem
 SELECT
-	BackToRoots.dbo.Product.ProductID,
-	BackToRoots.dbo.ProductType.ProductTypeName AS ProductType,				-- Type 0: Fixed
-	BackToRoots.dbo.Product.ProductName AS ProductName,					-- Type 0: Fixed
-	-- Subquery to get multiple diets on one line to show in single record
-	STUFF((SELECT ', ' + BackToRoots.dbo.Diet.DietID
-		   FROM BackToRoots.dbo.DietProduct
-		   LEFT OUTER JOIN BackToRoots.dbo.Diet
-				ON BackToRoots.dbo.Diet.DietID = BackToRoots.dbo.DietProduct.DietID
-			WHERE BackToRoots.dbo.DietProduct.ProductID = BackToRoots.dbo.Product.ProductID
-			FOR XML PATH('')),1,1,'') AS Diet,					-- Type 0: Fixed
-	BackToRoots.dbo.Product.ProductPrice AS ProductPrice					-- Type 2: Historical
-FROM BackToRoots.dbo.Product
-LEFT OUTER JOIN BackToRoots.dbo.ProductType
-	ON BackToRoots.dbo.ProductType.ProductTypeID = BackToRoots.dbo.Product.ProductTypeID;
-```
-
-### DimEmployee
-DimEmployee is loaded using the following SQL query.
-```SQL
--- BackToRootsDM DimEmployee Source Query Written by Hannah McDonald
--- Originally Written: October 2021 | Updated November 2021
----------------------------------------------------------------
--- Script query to select employees for DimEmployee
-SELECT
-	BackToRoots.dbo.Employee.EmployeeID,
-	BackToRoots.dbo.Employee.EmployeeFirstName AS FirstName,			-- Type 0: Fixed
-	BackToRoots.dbo.Employee.EmployeeLastName AS LastName,				-- Type 1: Changing
-	BackToRoots.dbo.Position.PositionType,						-- Type 2: Historical
-	BackToRoots.dbo.Position.PositionName,						-- Type 2: Historical
-	BackToRoots.dbo.EmploymentHistory.WageType,					-- Type 2: Historical
-	ISNULL(BackToRoots.dbo.EmploymentHistory.Wage, -1) AS Wage,			-- Type 2: Historical	-- Replace null with illogical wage
-	BackToRoots.dbo.EmploymentHistory.HireDate,					-- Type 0: Fixed
-	ISNULL(BackToRoots.dbo.EmploymentHistory.EndDate, '9999-01-01') AS EndDate	-- Type 1: Changing	-- Replace null with illogical date
-FROM BackToRoots.dbo.Employee
-LEFT OUTER JOIN BackToRoots.dbo.EmploymentHistory
-	ON BackToRoots.dbo.EmploymentHistory.EmployeeID = BackToRoots.dbo.Employee.EmployeeID
-LEFT OUTER JOIN BackToRoots.dbo.Position
-	ON BackToRoots.dbo.Position.PositionID = BackToRoots.dbo.EmploymentHistory.PositionID;
-```
+	ItemID AS Item_BK,
+	Item,
+	Color,
+	Brand
+FROM
+	SilhouetteCollective.dbo.Item i
+LEFT JOIN
+	SilhouetteCollective.dbo.Color c
+ON
+	i.ColorID = c.ColorID
+LEFT JOIN
+	SilhouetteCollective.dbo.Brand b
+ON
+	i.BrandID = b.BrandID;
 
 ### DimCustomer
-DimCustomer is loaded using the following SQL query.
-```SQL
--- BackToRootsDM DimCustomer Source Query Written by Hannah McDonald
--- Originally Written: October 2021 | Updated November 2021
----------------------------------------------------------------
--- Script query to select customers for DimCustomer
 SELECT
-	BackToRoots.dbo.Customer.CustomerID,
-	ISNULL(BackToRoots.dbo.Customer.CustomerDOB, '9999-01-01') AS DOB,				-- Type 0: Fixed	-- Replace null with illogical date
-	ISNULL(BackToRoots.dbo.Customer.CustomerCity, 'N/A') AS City,					-- Type 1: Changing
-	ISNULL(BackToRoots.dbo.Customer.CustomerState, 'NA') AS State,					-- Type 1: Changing
-	ISNULL(BackToRoots.dbo.Customer.CustomerZipCode, 00000) AS ZipCode,				-- Type 1: Changing	-- Replace null with illogical zip code
-	BackToRoots.dbo.RewardStatus.RewardStatusName AS RewardStatus,					-- Type 2: Historical
-	BackToRoots.dbo.RewardHistory.RewardStatusJoinDate,						-- Type 0: Fixed
-	ISNULL(BackToRoots.dbo.RewardHistory.RewardStatusEndDate, '9999-01-01') AS RewardStatusEndDate	-- Type 1: Changing	-- Replace null with illogical date
-FROM BackToRoots.dbo.Customer
-LEFT OUTER JOIN BackToRoots.dbo.RewardHistory
-	ON BackToRoots.dbo.RewardHistory.CustomerID = BackToRoots.dbo.Customer.CustomerID
-LEFT OUTER JOIN BackToRoots.dbo.RewardStatus
-	ON BackToRoots.dbo.RewardStatus.RewardStatusID = BackToRoots.dbo.RewardHistory.RewardStatusID;
-```
+	CustomerID AS Customer_BK,
+	LastName,
+	FirstName,
+	CONCAT(LastName, N', ', FirstName) AS LFName,
+	CONCAT(FirstName, N' ', LastName) AS FLName,
+	ISNULL(City, N'Unknown') AS City,
+	ISNULL(StateName, N'Unknown') AS [State],
+	ISNULL(RegionName, N'Unknown') AS Region,
+	CASE Gender
+	WHEN 'M' THEN N'Male'
+	WHEN 'F' THEN N'Female'
+	WHEN 'N' THEN N'Non-binary'
+	ELSE N'Unknown'
+	END AS Gender,
+	CASE 
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) < 18 THEN N'Under 18'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 18 AND 24 THEN N'18-24'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 25 AND 34 THEN N'25-34'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 35 AND 44 THEN N'35-44'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 45 AND 54 THEN N'45-54'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 55 AND 64 THEN N'55-64'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) >= 65 THEN N'65 and older'
+	ELSE N'Unknown'
+	END AS AgeGroup,
+	CASE 
+	WHEN YEAR(Birthdate) BETWEEN 1901 AND 1927 THEN N'Greatest Generation'
+	WHEN YEAR(Birthdate) BETWEEN 1928 AND 1945 THEN N'Silent Genearation'
+	WHEN YEAR(Birthdate) BETWEEN 1946 AND 1964 THEN N'Baby Boomer'
+	WHEN YEAR(Birthdate) BETWEEN 1965 AND 1979 THEN N'Gen X'
+	WHEN YEAR(Birthdate) BETWEEN 1980 AND 1996 THEN N'Millenial'
+	WHEN YEAR(Birthdate) BETWEEN 1997 AND 2012 THEN N'Gen Z'
+	WHEN YEAR(Birthdate) BETWEEN 2013 AND 2025 THEN N'Gen Alpha'
+	ELSE N'Unknown'
+	END AS Generation
+FROM
+	SilhouetteCollective.dbo.Customer c
+LEFT JOIN
+	SilhouetteCollective.dbo.[State] st
+ON
+	c.StateCode = st.StateCode
+LEFT JOIN
+	SilhouetteCollective.dbo.Region r
+ON
+	st.RegionCode = r.RegionCode;
 
-### DimOrder
-DimOrder is loaded using the following SQL query.
-```SQL
--- BackToRootsDM DimOrder Source Query Written by Hannah McDonald
--- Originally Written: October 2021 | Updated November 2021
----------------------------------------------------------------
--- Script query to select orders for DimOrder
+### DimEventType
 SELECT
-	BackToRoots.dbo.CustomerOrder.OrderID,						-- Type 0: Fixed
-	BackToRoots.dbo.CustomerOrder.OrderPlacement AS Placement,			-- Type 0: Fixed
-	BackToRoots.dbo.CustomerOrder.OrderFulfillment AS Fulfillment,			-- Type 0: Fixed
-	BackToRoots.dbo.StoreLocation.LocationStreetAddress,				-- Type 0: Fixed
-	BackToRoots.dbo.StoreLocation.LocationCity,					-- Type 0: Fixed
-	BackToRoots.dbo.StoreLocation.LocationState,					-- Type 0: Fixed
-	BackToRoots.dbo.StoreLocation.LocationZipCode,					-- Type 0: Fixed
-	BackToRoots.dbo.RewardStatus.RewardStatusName AS AssociatedRewardStatus		-- Type 0: Fixed
-FROM BackToRoots.dbo.CustomerOrder
-LEFT OUTER JOIN BackToRoots.dbo.StoreLocation
-	ON BackToRoots.dbo.StoreLocation.LocationID = BackToRoots.dbo.CustomerOrder.LocationID
-LEFT OUTER JOIN BackToRoots.dbo.Customer
-	ON BackToRoots.dbo.Customer.CustomerID = BackToRoots.dbo.CustomerOrder.CustomerID
-LEFT OUTER JOIN BackToRoots.dbo.RewardHistory
-	ON BackToRoots.dbo.RewardHistory.CustomerID = BackToRoots.dbo.Customer.CustomerID
-	AND BackToRoots.dbo.CustomerOrder.OrderDate BETWEEN BackToRoots.dbo.RewardHistory.RewardStatusJoinDate AND IIF(BackToRoots.dbo.RewardHistory.RewardStatusEndDate IS NULL, GetDate(), BackToRoots.dbo.RewardHistory.RewardStatusEndDate)
-LEFT OUTER JOIN BackToRoots.dbo.RewardStatus
-	ON BackToRoots.dbo.RewardStatus.RewardStatusID = BackToRoots.dbo.RewardHistory.RewardStatusID;
-```
+	EventTypeID AS EventType_BK,
+	EventType
+FROM
+	SilhouetteCollective.dbo.EventType;
 
-### FactSales
-FactSales is loaded using the following SQL query, then uses a series of lookups in the ETL to populate the SKs.
-```SQL
--- BackToRootsDM FactSales Source Query Written by Hannah McDonald
--- Originally Written: October 2021 | Updated October 2021
----------------------------------------------------------------
--- Script query to load the FactSales table
--- Use lookups in ETL to bring in SKs
-SELECT 
-	BackToRoots.dbo.CustomerOrder.OrderID,
-	BackToRoots.dbo.Customer.CustomerID,
-	BackToRoots.dbo.Employee.EmployeeID,
-	BackToRoots.dbo.CustomerOrder.OrderDate,
-	BackToRoots.dbo.Product.ProductID,
-	BackToRoots.dbo.OrderLine.Quantity, 
-	BackToRoots.dbo.Product.ProductPrice
-FROM BackToRoots.dbo.Customer 
-INNER JOIN BackToRoots.dbo.CustomerOrder 
-	ON BackToRoots.dbo.Customer.CustomerID = BackToRoots.dbo.CustomerOrder.CustomerID 
-INNER JOIN BackToRoots.dbo.Employee 
-	ON BackToRoots.dbo.CustomerOrder.EmployeeID = BackToRoots.dbo.Employee.EmployeeID 
-INNER JOIN BackToRoots.dbo.OrderLine 
-	ON BackToRoots.dbo.CustomerOrder.OrderID = BackToRoots.dbo.OrderLine.OrderID 
-INNER JOIN BackToRoots.dbo.Product 
-	ON BackToRoots.dbo.OrderLine.ProductID = BackToRoots.dbo.Product.ProductID;
-```
-The lookups in the ETL, which popluate the SKs, are as follows.
-	
-![BackToRootsDMLoadFactSales](https://user-images.githubusercontent.com/91146906/138399979-b6b7c8ec-0cf8-4f0a-8ef0-80fc0d892424.png)
+### DimShopper
+SELECT
+	ShopperID AS Shopper_BK,
+	LastName,
+	FirstName,
+	CONCAT(LastName, N', ', FirstName) AS LFName,
+	CONCAT(FirstName, N' ', LastName) AS FLName,
+	ISNULL(City, N'Unknown') AS City,
+	ISNULL(StateName, N'Unknown') AS [State],
+	ISNULL(RegionName, N'Unknown') AS Region,
+	CASE Gender
+	WHEN 'M' THEN N'Male'
+	WHEN 'F' THEN N'Female'
+	WHEN 'N' THEN N'Non-binary'
+	ELSE N'Unknown'
+	END AS Gender,
+	CASE 
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) < 18 THEN N'Under 18'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 18 AND 24 THEN N'18-24'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 25 AND 34 THEN N'25-34'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 35 AND 44 THEN N'35-44'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 45 AND 54 THEN N'45-54'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) BETWEEN 55 AND 64 THEN N'55-64'
+	WHEN DATEDIFF(YY, Birthdate, GETDATE()) >= 65 THEN N'65 and older'
+	END AS AgeGroup,
+	CASE 
+	WHEN YEAR(Birthdate) BETWEEN 1901 AND 1927 THEN N'Greatest Generation'
+	WHEN YEAR(Birthdate) BETWEEN 1928 AND 1945 THEN N'Silent Genearation'
+	WHEN YEAR(Birthdate) BETWEEN 1946 AND 1964 THEN N'Baby Boomer'
+	WHEN YEAR(Birthdate) BETWEEN 1965 AND 1979 THEN N'Gen X'
+	WHEN YEAR(Birthdate) BETWEEN 1980 AND 1996 THEN N'Millenial'
+	WHEN YEAR(Birthdate) BETWEEN 1997 AND 2012 THEN N'Gen Z'
+	WHEN YEAR(Birthdate) BETWEEN 2013 AND 2025 THEN N'Gen Alpha'
+	END AS Generation
+FROM
+	SilhouetteCollective.dbo.Shopper s
+LEFT JOIN
+	SilhouetteCollective.dbo.[State] st
+ON
+	s.StateCode = st.StateCode
+LEFT JOIN
+	SilhouetteCollective.dbo.Region r
+ON
+	st.RegionCode = r.RegionCode;
+
+### FactPurchase
+SELECT
+	p.PurchaseID,
+	pri.PurchaseItemID,
+	dimd.Date_SK AS PurchaseDate,
+	dimc.Customer_SK,
+	dims.Shopper_SK,
+	dimi.Item_SK,
+	dime.EventType_SK,
+	i.Price AS ItemPrice,
+	i.Cost AS ItemCost,
+	i.Price - i.Cost AS ItemProfit,
+	pri.Quantity,
+	i.Price * pri.Quantity AS Revenue,
+	i.Cost * pri.Quantity AS Cost,
+	(i.Price * pri.Quantity) - i.Cost * pri.Quantity AS Profit
+FROM
+	SilhouetteCollective.dbo.PurchaseItem pri
+LEFT JOIN
+	SilhouetteCollective.dbo.Purchase p
+ON
+	pri.PurchaseID = p.PurchaseID
+LEFT JOIN	
+	SilhouetteCollective.dbo.Item i
+ON
+	pri.ItemID = i.ItemID
+LEFT JOIN
+	SilhouetteCollectiveDM.dbo.DimCustomer dimc
+ON
+	dimc.Customer_BK = p.CustomerID
+LEFT JOIN
+	SilhouetteCollectiveDM.dbo.DimShopper dims
+ON
+	dims.Shopper_BK = p.ShopperID
+LEFT JOIN
+	SilhouetteCollectiveDM.dbo.DimItem dimi
+ON
+	dimi.Item_BK = pri.ItemID
+LEFT JOIN
+	SilhouetteCollectiveDM.dbo.DimEventType dime
+ON
+	dime.EventType_BK = p.EventTypeID
+LEFT JOIN
+	SilhouetteCollectiveDM.dbo.DimDate dimd
+ON
+	dimd.[Date] = p.PurchaseDate;
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
 <a name="PowerPivot"></a>
 <hr>
 	
-## Sales Analysis (Power Pivot)
-### Chief Operating Officer's Question 
-What is the quantity of sales monthly, seasonally, and yearly summarized by product, product type, and diet, in addition to location and order fulfillment?
-	
+## Sales Analysis in Tableau
+
 ### Dashboard
 	
 ![BackToRootsDMPowerPivotSnapshot](https://user-images.githubusercontent.com/91146906/152288743-11ae6130-9ac9-4bc7-b06e-bed1f1f68ab7.png)
