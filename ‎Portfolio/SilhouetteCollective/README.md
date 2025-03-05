@@ -118,7 +118,7 @@ Silhouette Collective is a fashion concierge business that provides a highly per
 ## Build Script
 The Silhouette Collective data mart build script creates the "SilhouetteCollectiveDM" data mart (if it does not already exist), deletes tables, and creates dimension tables and the fact table with the correct attributes and constraints. The script is able to run multiple times without error.
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../SilhouetteCollective/SilhouetteCollectiveBuildScriptDM.sql)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/SilhouetteCollectiveBuildScriptDM.sql)
 <br>
 <br>[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
@@ -133,7 +133,7 @@ Using Visual Studio and SSIS, data is extracted from the Back to Roots OLTP, tra
 ### DimDate
 DimDate is loaded using the LoadDimDate.sql SQL query, which was provided.
 <br>
-<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](../SilhouetteCollective/CollectiveLoadDimDate.sql)
+<br>[<img src="https://user-images.githubusercontent.com/91146906/152286999-322b92ed-de1a-46f6-a8ff-9bc08b12f9ca.svg" height="35"/>](..Portfolio/SilhouetteCollective/CollectiveLoadDimDate.sql)
 
 ### DimProduct
 DimProduct is loaded using the following SQL query.
