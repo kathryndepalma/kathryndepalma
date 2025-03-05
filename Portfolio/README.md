@@ -95,7 +95,7 @@ This internship helped me refine my ability to work with data and communicate in
 <table>
   <tr>
     <td>
-      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/ComcastInternTeam.jpg" height="460">
+      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/ComcastInternTeam.jpg" height="460" width="auto">
       <br><i>Comcast Intern Team</i>
     </td>
   </tr>
@@ -129,21 +129,13 @@ Traveling has always been a very important part of my life since a young age. I 
 
 <a name="GlobalCitizenship"></a>
 ### Exploring Global Citizenship
-<i>Fall 2019</i>
+<i>Fall 2023</i>
 <br>
-<br>Although my study abroad program was cancelled, I took a class on Exploring Global Citizenship in preparation of going abroad. This course helped me examine how my own culture and identity may interact with other cultures. Specifically, I examined how historical events, political climates, and social disparities surrounding privilege may influence others' views of and assumptions about me. Further, I educated myself on subtle cultural differences I may encounter, inlcluding differences in language and communication, approach to conflict, and cultural tendencies.
+<br>During my time studying abroad in Sevilla, Spain, I had the opportunity to immerse myself in both the language and culture. I took two Spanish language courses, which helped me improve my fluency, while also expanding my academic knowledge in international settings. In addition to the language classes, I enrolled in a government class, gaining insights into Spanish politics, and an international finance class, which offered a global perspective on financial systems. This experience not only enriched my academic understanding but also deepened my appreciation for diverse cultural and economic contexts.
 <br>
-<br>The awareness I developed in this course proved worthwhile beyond studying abroad, as it applies to my interactions with anyone whose background and experiences differ from my own. Recognizing and understanding cultural differences gives me an opportunity to reflect on the "why" of certain interactions and to begin understanding those interactions from the perspective of those with different cultural backgrounds than my own. This ability has the potential to help avoid miscommunications and to diffuse uncomfortable situations, which is valuable in any setting.
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="InternationalBus"></a>
-### International Business Exposure
-<i>Winter 2021</i>
-<br><br>During my International Martketing course, I explored the various dimensions of international marketing, particularly their affect on marketing strategies. In doing this, my peers and I developed a strategy to introduce a company's product line in a new country. This required understanding the products and identifying a market that would purchase them. In this process, political, economic, social, technological, environmental, and legal compatabilites between the product line and the new market were considered. Further, my team and I evaluated competition and the needed modifications, segmentation, targeting, and positioning for the product's success in the market.
+<br>I also had the immersive experience of living in a homestay in Sevilla. Living with a Spanish family for 4 months allowed me to practice Spanish in a real-world setting, enhance my cultural understanding, and build meaningful relationships with my host family. Living with them gave me a deeper connection to the local culture, traditions, and daily life, which enriched my overall study abroad experience.
 <br>
-<br>My key takeaways were the complexity of international business and the importance of taking time to learn about about other cultures. While our research provided valuable insight, it would be worthwhile to travel to the new market and engage in conversation.
+<br>While studying abroad, I had the incredible opportunity to travel to eight countries across Europe and Africa, including Portugal, Morocco, France, Italy, England, Scotland, Ireland, and Switzerland. Exploring these diverse regions allowed me to experience different cultures, histories, and perspectives, further enriching my global understanding and appreciation for international connections.
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
@@ -151,7 +143,7 @@ Traveling has always been a very important part of my life since a young age. I 
 <a name="Fun"></a>
 <hr>
 
-## Taking advantage of all that Colorado had to offer:
+## Taking advantage of all that Colorado has to offer:
 <table>
   <tr>
     <td>
