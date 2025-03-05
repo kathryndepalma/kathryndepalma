@@ -95,7 +95,7 @@ This internship helped me refine my ability to work with data and communicate in
 <table>
   <tr>
     <td>
-      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/path/to/ComcastInternTeam.jpg" height="460">
+      <img src="https://github.com/kathryndepalma/kathryndepalma/raw/main/ComcastInternTeam.jpg" height="460">
       <br><i>Comcast Intern Team</i>
     </td>
   </tr>
