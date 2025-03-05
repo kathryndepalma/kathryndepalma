@@ -18,7 +18,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <a name="Communication"></a>
 <hr>
 
-## Communucation
+## Communication
 [<img src="https://user-images.githubusercontent.com/91146906/161487686-1bcb9c45-aaa3-45ad-8def-27fa463ccdc4.svg" height="35"/>](#Writing)
 
 <a name="Writing"></a>
@@ -30,10 +30,10 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 
 [<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../UtopianUrbanismAssignment1.pdf)
 
-#### The Impacts of Screen Time on Mental, Emotional, and Relational Health in Children Ages 0-10
-<i>Fall 2020</i>
+#### The Global Economy from a Structuralist Perspective
+<i>Winter 2024</i>
 <br>
-<br>In this paper, I summarized the results of existing scientific articles related to the impact of screen time on mental, emotional, and relational health in children ages 0-10. Then, I developed a research proposal for future research related to the topic. This required critical thinkning in identifying gaps in existing research and then brainstorming how to bridge those gaps.
+<br>In this essay, I analyzed the global economy through a structuralist lens, focusing on how global economic systems and inequalities are shaped by historical and institutional structures. I worked to break down complex economic theories and present them in a way that is digestible for a broader audience. This helped me enhance my ability to communicate sophisticated economic concepts in simpler terms, a skill that is essential both in technical analysis and when explaining intricate subjects to individuals with varying levels of expertise.
 
 [<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../DanielsDistinctionPortfolio/ScreenTimeResearchProposal.pdf)
 
@@ -47,7 +47,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 [<img src="https://user-images.githubusercontent.com/91146906/152072177-b0da1e15-4fc8-49f3-a9fe-49736e3057d8.svg" height="35"/>](#Thrive)
 [<img src="https://user-images.githubusercontent.com/91146906/152072235-a176c4f0-2cb8-4e2c-917b-a58e49aecbd2.svg" height="35"/>](#HLP)
 
-<a name="WLLC"></a>
+<a name="IELLC"></a>
 ### Innovation and Entrepreneurship Living and Learning Community
 <i>Fall 2021 - Spring 2022</i>
 <br>
@@ -56,52 +56,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <br>The classes and experiences in the  LLC challenged me to think outside of the box. With the opportunity to explore and try new things, I learned a great deal about myself and the impact I can have on the business wolrd. Being a part of this group gave me new perspective in navigating my career and charting my own path.
 <br>
 
-<details>
-<summary><i><b>See what I did in the Wellness LLC!</b></i></summary>
-    <br>
-  <table>
-    <tr>
-      <td>
-        <b>Personal Wellness:</b> Through the classes and experiences in the Wellness LLC, I identified and prioritized the areas of life most prevelant to my wellbeing, including exercising, eating well, sleeping, and connecting with those around me. Further, I explored spirituality through meditation, a practice with which I struggle. While I never "mastered" consistently prioritizing these areas, the Wellness LLC provided structure and support for my personal wellness journey, and challenged me to expand my personal wellness practices. Being part of this community allowed me to better develop the valuable foundation from which my personal wellness journey continues.    
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Community and Social Wellness:</b> In learning about community and social wellness and the processes involved in defining, maintaining, and improving it, my peers and I developed a project proposal for meeting the physcial activity needs of first-year students at the University of Denver. In doing these, we identified and gained an understanding of the community; defined the problem, including its scope, impact, influential factors, and existing resources; and proposed strategies for addressing the problem, including an app connecting "workout buddies," a resource workshop, and a club sports access fund. Throughout this process, I learned the intricate nature of community and social wellness, the challenges in addressing concerns, and the intersections between individual wellness and community and social wellness. A key takeaway was the power individuals and groups possess to make change in their communities.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Volunteering:</b> Giving back to the community, particularly through volunteer work, is a key component of both community and personal wellness. With the Wellness LLC, I volunteered at a community garden in Denver, completing the necessary work to tend to the gardens. Additionally, I volunteered at the Fischer Early Learning Center's Spring Fling, helping them raise money to support their students. Both these experiences were rewarding in supporting the community and developing relationships with my fellow volunteers.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Retreats:</b> With the Wellness LLC, I went on several retreats, including those to Stone Canyon EdVentures and Glenwood Hot Springs. These provided opportunities to disconnect, reflect, recenter, and nurture relationships with my peers. On one retreat, I spent several hours laying in my hamock in the woods. Initially, this sounded boring and even daunting; however, I was able to clear my mind, reflect, and connect with nature. Additionally, I spent uninterrupted time with my peers, having fun and making memories. These experiences highlighted the importance of taking time for myself and being present, as I left retreats feeling refreshed and energized.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>Co-Curricular Activities:</b> I regularly participated in co-curricular activities that would expand and support my wellness journey. These activities included a feng shui workshop, a trip to the Denver Botanic Gardens, several yoga practices, a ski day, and more. These activities allowed me to take time for myself and, in many cases, learn or try something new.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/151284126-df55e908-f89d-4c27-9a75-65add1c47684.jpg" width="460">
-      <br><i>Community service day with DU's living and learning <br> communities at a Denver community garden.</i>
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/152106480-3ee47784-7b5c-4ee5-8338-2ce28f3efa6b.jpg" width="460">
-      <br><i>Wellness Living and Learning Community retreat <br> to Stone Canyon EdVentures September, 2018.</i>
-    </td>
-  </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#CommunityLeadership)
+[<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Community)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="Thrive"></a>
