@@ -29,8 +29,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <li><b>Comcast (Fortune-33 company)</li>
 <li><b>Stranco (Manufacturing firm)</li>
 <li><b>Terrace Room (Upscale italian restaurant)</li>
-</li>
-<i>[Check out my LinkedIn!](https://www.linkedin.com/in/kathryn-depalma/)</i>
+
+[Check out my LinkedIn!](https://www.linkedin.com/in/kathryn-depalma/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
