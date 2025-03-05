@@ -12,7 +12,6 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 [<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityInvolvement)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
-[<img src="https://user-images.githubusercontent.com/91146906/162367370-96cd19ed-02c8-4511-86d6-1cc358e56458.svg" height="35"/>](#Fun)
 
 <a name="Communication"></a>
 <hr>
@@ -129,53 +128,3 @@ Traveling has always been a very important part of my life since a young age. I 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Global)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
-<a name="Fun"></a>
-<hr>
-
-## Taking advantage of all that Colorado has to offer:
-<table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160346964-fbbcb1ab-8b60-4c43-8676-88bfbbd2f8ec.jpg" width="460">
-      <br><i>Hiking Red Rocks with Freshman Seminar Fall 2018</i>
-      </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160350753-371241a7-4111-4d07-b1b6-87d15608513c.jpg" width="460">
-      <br><i>Hiking Mt. Sherman 14er Fall 2018</i>
-      </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253019-1cab3057-87fe-4f21-a44c-8a27f58781da.jpg" width="460">
-      <br><i>Rafting Colorado River Summer 2019</i>
-    </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253248-af857098-07eb-4c9d-86b8-531b48c52694.jpg" width="460">
-      <br><i>Bolder Boulder Spring 2019 / 5K in Wash Park Fall 2019</i>
-      </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160252752-aa75d597-dbf2-440c-9539-cd5ac380f7f3.jpg" width="460">
-      <br><i>Skiing Winter 2020</i>
-      </td>
-        <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253445-1d9d626f-7f9d-4550-8ffb-596c066ea718.jpg" width="460">
-      <br><i>Snowshoeing Winter 2020</i>
-      </td>
-  </tr>
-    <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160349054-2593e7e2-7f44-43d6-81d9-3c6ee62efd6f.jpg" width="460">
-      <br><i>Paddle Boarding Steamboat Lake Summer 2020</i>
-    </td>
-      <td>
-      <img src="https://user-images.githubusercontent.com/91146906/160253356-7b4e89d0-9c25-4fa9-8282-fbf0977e6a8b.jpg" width="460">
-      <br><i>Snowman Building Winter 2022</i>
-    </td>
-  </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-
