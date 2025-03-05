@@ -60,7 +60,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
     </td>
     <td>
      <ul>
-        <li><a href = "https://www.credly.com/badges/5dc9033b-9206-47c2-9dc6-1f0d6dab4b88/linked_in_profile</a></li>
+        <li><a href = "https://www.credly.com/badges/5dc9033b-9206-47c2-9dc6-1f0d6dab4b88/linked_in_profile">Python- PCEP Certified Entry-Level Python Programmer</a></li>
         <li><a href = "https://www.credly.com/badges/23f6c6da-fbcd-4a01-bedc-2f9ca4e5a540/public_url">Microsoft Expert Excel 2019</a></li>
         <li><a href = "https://www.credly.com/badges/ac1cb133-b395-4a61-a71c-8fd6ea908771/public_url">Microsoft Expert Word 2019</a></li>
         <li><a href = "https://www.credly.com/badges/e1f089c5-e148-4a30-9dc3-b6551e873dd8/public_url">Microsoft Associate PowerPoint 2019</a></li>
