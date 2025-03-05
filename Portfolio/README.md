@@ -24,7 +24,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 #### Good Urbanims: Ruby Hill Park
 <i>Winter 2025</i>
 <br>
-<br>In this essay, I explored the concept of a utopian place around Denver, carefully examining its characteristics and envisioning its idealistic features. I translated complex ideas about urban development and community well-being into accessible language for a general audience. This process allowed me to refine my ability to synthesize and present intricate concepts in a way that resonates with readers outside of specialized fields. These skills are valuable in my technical analysis work and in communicating complex data effectuvily to non-technical audiences, ensuring that my insights can be understood and applied.
+<br>In this essay, I explored the concept of a utopian place around Denver, carefully examining its characteristics and envisioning its idealistic features. I translated complex ideas about urban development and community well-being into accessible language for a general audience. This process allowed me to refine my ability to synthesize and present intricate concepts in a way that resonates with readers outside of specialized fields. These skills are valuable in my technical analysis work and in communicating complex data effectivily to non-technical audiences, ensuring that my insights can be understood and applied.
 
 [<img src="https://user-images.githubusercontent.com/91146906/162126570-0ee09e62-f24d-4a2a-8d68-3fcb47da7c67.svg" height="35"/>](../UtopianUrbanismAssignment1.pdf)
 
@@ -48,7 +48,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 <br>
 <br>The Innovation and Entrepreneurship Living and Learning Community (LLC) is a group of first-year students living and taking academic classes together. I joined this community to help myself integrate into college with a group of people who have similar interests. In the challenging transition to college, I found balance in my academic and personal life through this LLC.
 <br>
-<br>The classes and experiences in the  LLC challenged me to think outside of the box. With the opportunity to explore and try new things, I learned a great deal about myself and the impact I can have on the business wolrd. Being a part of this group gave me new perspective in navigating my career and charting my own path.
+<br>The classes and experiences in the  LLC challenged me to think outside of the box. With the opportunity to explore and try new things, I learned a great deal about myself and the impact I can have on the business world. Being a part of this group gave me new perspective in navigating my career and charting my own path.
 <br>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Community)
