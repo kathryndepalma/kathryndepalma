@@ -12,7 +12,6 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 [<img src="https://user-images.githubusercontent.com/91146906/152071881-e4fdfd91-bd4d-42f6-a6f4-0e1234c6bfc7.svg" height="35"/>](#CommunityInvolvement)
 [<img src="https://user-images.githubusercontent.com/91146906/152072049-ab7d3102-eb2e-4f8b-983e-be3783806f87.svg" height="35"/>](#Technical)
 [<img src="https://user-images.githubusercontent.com/91146906/161411069-5a6c5a81-e2e7-4c39-a687-f8aa95f23ce6.svg" height="35"/>](#Global)
-[<img src="https://user-images.githubusercontent.com/91146906/162367305-5589f7ee-e667-468e-9548-4ee401f7f683.svg" height="35"/>](#Ethics)
 [<img src="https://user-images.githubusercontent.com/91146906/162367370-96cd19ed-02c8-4511-86d6-1cc358e56458.svg" height="35"/>](#Fun)
 
 <a name="Communication"></a>
@@ -44,8 +43,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 
 ## Community Engagment
 [<img src="https://user-images.githubusercontent.com/91146906/152072147-f6e15400-5167-45c0-b0c7-6df818a3fde2.svg" height="35"/>](#IELLC)
-[<img src="https://user-images.githubusercontent.com/91146906/152072177-b0da1e15-4fc8-49f3-a9fe-49736e3057d8.svg" height="35"/>](#Thrive)
-[<img src="https://user-images.githubusercontent.com/91146906/152072235-a176c4f0-2cb8-4e2c-917b-a58e49aecbd2.svg" height="35"/>](#HLP)
+[<img src="https://user-images.githubusercontent.com/91146906/152072177-b0da1e15-4fc8-49f3-a9fe-49736e3057d8.svg" height="35"/>](#GPB)
 
 <a name="IELLC"></a>
 ### Innovation and Entrepreneurship Living and Learning Community
@@ -59,7 +57,7 @@ Welcome to my portfolio, highlighting my undergraduate experiences and work at t
 [<img src="https://user-images.githubusercontent.com/91146906/152072343-975b3adf-3d47-4d4b-8c3f-fd7b880f036d.svg" height="35"/>](#Community)
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="Thrive"></a>
+<a name="GPB"></a>
 ### Gamma Phi Beta Sorority
 <i>January 2022 - June 2025</i>
 <br>
@@ -79,8 +77,6 @@ Through my time in Gamma Phi Beta and Girls on the Run, I gained a deeper unders
 ## Technical Knowledge
 [<img src="https://user-images.githubusercontent.com/91146906/160903916-f1121ac9-ebfc-480a-9dc7-852b33104701.svg" height="35"/>](#CMCST)
 [<img src="https://user-images.githubusercontent.com/91146906/160903984-a2bcca0a-7e91-4856-93b2-c97e60528097.svg" height="35"/>](#SC)
-[<img src="https://user-images.githubusercontent.com/91146906/160904040-9abe5b2d-e2a0-4f4c-a7b6-c911305bcbd8.svg" height="35"/>](#OLAP)
-[<img src="https://user-images.githubusercontent.com/91146906/160904098-dc1cb242-8a59-4691-bf4d-17c118dbfd62.svg" height="35"/>](#VBA)
 
 <a name="CMCST"></a>
 ### Internship: Comcast Business Inside Sales Team
@@ -120,8 +116,6 @@ This internship helped me refine my ability to work with data and communicate in
 ## Global Experience
 
 [<img src="https://user-images.githubusercontent.com/91146906/161900652-98c6a3f7-3dfe-4705-8ea0-06376a7672af.svg" height="35"/>](#GlobalCitizenship)
-[<img src="https://user-images.githubusercontent.com/91146906/161900702-4e7fa7a4-19f7-4859-9441-b7e23afa6df5.svg" height="35"/>](#InternationalBus)
-[<img src="https://user-images.githubusercontent.com/91146906/161900739-32ba4e02-5219-4e56-92ec-ba67f3dfe484.svg" height="35"/>](#Worldviews)
 
 Traveling has always been a very important part of my life since a young age. I first left the country alone at 10 years old, where I attended an international summer camp called CISV, which promoted peace among children of different cultures.
 <br>
