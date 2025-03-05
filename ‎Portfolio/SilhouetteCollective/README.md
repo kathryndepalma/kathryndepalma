@@ -7,7 +7,6 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152239160-8f8c18a2-e724-4be7-863d-bc94151212ce.svg" height="35"/>](#Introduction)
 [<img src="https://user-images.githubusercontent.com/91146906/152279618-21ae078d-3d0b-45ed-95f1-306e5030f301.svg" height="35"/>](#BusinessRequirements)
 [<img src="https://user-images.githubusercontent.com/91146906/152279677-02eb9847-1863-4641-b59c-58a0e6cd2f24.svg" height="35"/>](#DataMartDesign)
-[<img src="https://user-images.githubusercontent.com/91146906/161397633-2e4d30dc-ba35-4fe9-b66d-9c8e91ba0f86.svg" height="35"/>](#PowerPivot)
 [<img src="https://user-images.githubusercontent.com/91146906/161397549-071ca628-25fa-4c34-91d1-78274cafc9b8.svg" height="35"/>](#PowerBI)
 
 <a name="ExecutiveSummary"></a>
@@ -287,44 +286,13 @@ ON
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 	
-<a name="PowerPivot"></a>
-<hr>
-	
-## Sales Analysis in Tableau
-
-### Dashboard
-	
-![BackToRootsDMPowerPivotSnapshot](https://user-images.githubusercontent.com/91146906/152288743-11ae6130-9ac9-4bc7-b06e-bed1f1f68ab7.png)
-	
-### Analysis
-The "Sales Overtime by Product Type" indicate special orders have the most sales for Back to Roots by a significant margin. In January 2020, special orders had their peak sales of $617,620. Cookies have more sales around the holiday season and winter (December through February), with their peak sales of $249,363.50 in January 2020. The sales of other product types do not significantly differ from one another.
-<br>
-<br>The "Sales Overtime by Product Type" also demonstrate an upward trend in sales until the COVID-19 pandemic hit, at which point sales dropped significantly as the bakery had to close for several months. Upon reopening, sales began to increase again, although they have not reached pre-pandemic levels. The "Number of Orders by Order Fulfillment Method" also demonstrates the impact of the COVID-19 pandemic. Prior to the pandemic, in-store order fulfillment was used for 21,733 orders in Q1 2020, compared to 14,437 that used pick-up and 5,833 that used delivery. During Q2 2020, orders were only filled via delivery, as it was the heart of the COVID-19 pandemic. As the community began to adapt to life amid COVID-19, the number of orders using pick-up surpassed those using delivery; however, in-store order fulfilments remain low. There were 6,299 orders filled via pick-up in Q4 2020, while 5,539 were filled via delivery and 2,131 via in-store. With the "Number of Orders by Order Fulfillment Method" analysis, the data suggests in-store order fulfillment methods are declining, while pick-up and delivery methods are increasing.
-<br>
-<br>The "Quantity Sold by Product" analysis indicates Raspberry Thumbprint Cookies have the highest quantity sold over all time and are particularly popular in the winter, as are many cookies. Conversely, crisps have a low quantity sold and are not sold in the winter. The pumpkin products, naturally, have the most unit sales in the fall. The data in this analysis suggests some products are highly season, like Gingerbread Truffles, while others are not, like Special Order Cakes. Further, this analysis in relation to the sales analysis, suggests that both cookies and special orders have high sales and quantity sold; however, a much higher quantity of cookies are sold without matching the sales brought in by special orders due to the significant price difference. Balls also have a high quantity of sales, although that does not necessarily seem to show in the sales analysis.
-<br>
-<br>The "Sales by Diet Type" analysis indicates the "Unknown" diet has the highest sales, which may be explained by these products being special order and meeting whatever dietary requirements are requested. Gluten-free, honey-free, nut-free, processed sugar-free, and vegan products consistently have the highest sales of products with known diet types, while those without nuts are slightly lower and those also without honey are the lowest. However, it cannot be determined with this analysis whether the difference in sales is due to the product's diet types or other factors, like the products themselves and the number of products meeting each diet type available. 
-	
-### Recommendations 
-<ul>
-  <li>Back to Roots should promote and invest in special orders, as this is where Back to Roots has the most sales.</li>
-  <li>Since "balls" have a high quantity of sales that does not reflect in the dollar value of sales, it may be worthwhile to further investigate this and determine how the popularity of the "ball" product types can translate to a higher dollar value of sales. Can prices be increased?</li>
-  <li>Back to Roots should track demand for order fulfillment methods as the community continues to recover from the pandemic. If the current trend continues, Back to Roots should focus more on developing delivery and pick-up processes, rather than in-store fulfillment.</li>
-  <li>Seasonal products are popular, and Back to Roots should take advantage of that by following seasonal trends and using seasonal ingredients.</li>
-  <li>Back to Roots may consider evaluating consumers' diet preferences and adapt their products to meet those, as this may lead to a better understanding of how diet impacts sales.</li>
-</ul>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
-	
 <a name="PowerBI"></a>
 <hr>
 	
-## Customer and Order Dashboard (Power BI)
-### Chief Marketing Officer's Question
-What are the sales monthly, quarterly, and yearly summarized by customer age and reward status, in addition to order placement method?
+## Sales Dashboard in Power BI
 
 ### Dashboard
-<img width="1211" alt="BackToRootsDashboard" src="https://user-images.githubusercontent.com/91146906/152289272-89e5505c-4e6a-4f29-b516-66ec308c28af.png">
+![image](https://github.com/user-attachments/assets/ad429715-cf50-42ed-a519-4a55147fcf19)
 
 ### Analysis
 Sales experienced a steady increase, despite seasonality, from Back-to-Root's opening in February 2018 through September 2019, then a sharp increase was seen in October 2019. Sales hit their peak of $1,273,807.50 in January 2020 before a drastic drop to $147,357 in April 2020 due to the COVID-19 pandemic and the associated impacts. Back-to-Roots closed for a period and then was only able to offer delivery and pick-up options. Since then, sales have once again been steadily increasing and are projected to continue doing so, although seasonality will result in some increases and decreases in sales.
